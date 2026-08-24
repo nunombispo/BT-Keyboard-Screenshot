@@ -1,0 +1,5 @@
+# Copy these files from https://github.com/Heerkog/MicroPythonBLEHID onto the ESP32:
+#   hid_services.py
+#   hid_keystores.py
+#
+# MicroPython v1.18+ on ESP32 (with BLE), e.g. ESP32-C3
